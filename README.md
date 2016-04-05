@@ -1,7 +1,6 @@
 # Ushop
 
 [![Build Status](https://api.travis-ci.org/dikiaap/ushop.svg)](https://travis-ci.org/dikiaap/ushop)
-[![Composer Cache](https://shield.with.social/cc/github/dikiaap/ushop/master.svg)](https://packagist.org/packages/laravel/framework)
 [![Status Npm Package](https://david-dm.org/dikiaap/ushop.svg)](https://david-dm.org/dikiaap/ushop)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/dikiaap/ushop)
 
